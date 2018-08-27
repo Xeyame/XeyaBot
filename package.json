@@ -1,0 +1,16 @@
+{
+  "name": "xeyabot",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xeyame",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "figlet": "^1.2.0",
+    "ms": "^2.1.1"
+  }
+}
