@@ -9,7 +9,7 @@
   "author": "Xeyame",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.js": "^11.6.4",
     "figlet": "^1.2.0",
     "ms": "^2.1.1"
   }
